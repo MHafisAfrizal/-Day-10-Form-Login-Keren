@@ -10,7 +10,7 @@ Membuat form login yang modern dan interaktif dengan HTML, CSS, JS, dan Python (
 ---
 
 ## 🌐 Preview
-![Preview Login Form](https://i.imgur.com/yKdW5Kf.png)
+![Preview Login Form]https://mhafisafrizal.github.io/-Day-10-Form-Login-Keren/)
 
 ---
 
